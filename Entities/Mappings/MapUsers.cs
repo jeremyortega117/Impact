@@ -3,7 +3,7 @@
 
 namespace Entities.Mappings
 {
-    class MapUsers
+    public class MapUsers
     {
         public static Users1 Map(Users Orig)
         {
