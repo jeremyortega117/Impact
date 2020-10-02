@@ -1,0 +1,12 @@
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.deps.json
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.dll
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.pdb
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csprojAssemblyReference.cache
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfoInputs.cache
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfo.cs
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.dll
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.pdb
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Algorithms\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Algorithms\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\JPOje\OneDrive\Documents\CODE\PROJECTS\GAMES\Impact_Dev_1.0.1\Impact\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
