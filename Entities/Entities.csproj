@@ -9,11 +9,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Abstractions\" />
-    <Folder Include="Repositories\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Impact\Impact.csproj" />
   </ItemGroup>
 
